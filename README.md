@@ -8,13 +8,13 @@ This repository contains a collection of Java programs focused on **problem-solv
 
 The repository includes solutions for various types of problems such as:
 
-- 🔢 Arrays & ArrayList manipulation
-- 🔄 String processing
-- 🔍 Searching & pattern matching
-- 🔗 HashMaps and Hashing
-- 🔢 Mathematical problems
-- 🔢 Stack examples
-- 🧠 Algorithmic problem-solving patterns
+-  Arrays & ArrayList manipulation
+-  String processing
+-  Searching & pattern matching
+-  HashMaps and Hashing
+-  Mathematical problems
+-  Stack examples
+-  Algorithmic problem-solving patterns
 
 ## 📁 File List
 
